@@ -1,0 +1,101 @@
+html,
+body {
+  font-family: 'Raleway', sans-serif;
+}
+.navbar {
+  /* padding: 5px; */
+}
+.navbar-brand {
+  color: #E53557;
+  font-size: 1.3rem;
+  
+}
+.navbar-brand:hover {
+  color: #7AF9D9;
+  
+}
+
+.nav-link {
+  color: #7AF9D9;
+  font-size: 1.3rem;
+  /* margin-right: 10px; */
+}
+.nav-link:hover {
+ color:#fff;
+}
+
+.nav-text {
+  padding-left: 5px;
+}
+
+.jumbotron {
+  background: #252627;
+  margin: 0;
+  overflow: auto;
+}
+.jumbotron p{
+  padding-top: 30px;
+  color: #fff;
+}
+.display-4 {
+  color: #7AF9D9;
+  font-size: 5rem;
+  padding-top: 30px;
+}
+
+.h1-title{
+  display: block;
+  text-align: center;
+  color: #181818;
+  padding: 20px;
+}
+.card {
+  margin-top: 10px;
+   border: 5px solid #7AF9D9;
+}
+/* SKILLS */
+ul li {
+  color: #fff;
+  padding: 15px;
+}
+.thumbnail img {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.portfolio .jumbotron {
+   background: #777;
+}
+
+/* FOOTER */
+footer {
+  padding: 20px;
+  background: #252627;
+  color: #fff;
+  text-align: center;
+
+}
+.social-media-icons a .fab:hover {
+color: #7AF9D9;
+}
+
+.btn-success {
+  background:#7AF9D9;
+  color: #333;
+}
+.btn-success:hover {
+  background:#E53557;
+   color: #333;
+}
+
+
+    
+@media (max-width: 768px) { 
+
+  /* .navbar{
+    color: #f4f4f4;
+    width: 70%;
+    height: 60vh; */
+
+  }
+ }
